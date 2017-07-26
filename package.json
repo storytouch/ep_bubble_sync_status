@@ -1,0 +1,19 @@
+{
+  "description": "Etherpad plugin to send a message to Etherpad content window (when used on iframe) whenever the editor sync status is changed",
+  "name": "ep_bubble_sync_status",
+  "version": "0.0.1",
+  "author": {
+    "name": "Luiza Pagliari",
+    "url": "https://github.com/lpagliari"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://github.com/storytouch/ep_bubble_sync_status",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/storytouch/ep_bubble_sync_status"
+  }
+}

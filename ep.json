@@ -1,0 +1,13 @@
+{
+  "parts": [
+    {
+      "name": "main",
+      "client_hooks": {
+        "postAceInit": "ep_bubble_sync_status/static/js/index"
+      },
+      "hooks":{
+        "eejsBlock_editbarMenuLeft": "ep_bubble_sync_status/index"
+      }
+    }
+  ]
+}
